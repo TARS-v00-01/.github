@@ -1,0 +1,6 @@
+# Other repositories may inherit these templates; keep normal module issues available.
+blank_issues_enabled: true
+contact_links:
+  - name: Report an application issue
+    url: https://github.com/TARS-v00-01/xWalkPiCarApp/issues/new?template=bug-report.yml
+    about: Report public application behavior in the app repository; keep private details in private modules.
